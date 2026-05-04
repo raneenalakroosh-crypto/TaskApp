@@ -24,8 +24,8 @@ Improve productivity by organizing and tracking daily tasks.
 
 📸 Screenshots | صور من التطبيق
 
-<img width="452" height="728" alt="task" src="https://github.com/user-attachments/assets/4ed2bac4-046c-4202-aeff-81859ca75fa1" />
-(حط صور التطبيق هنا)
+<img width="452" height="728" alt="task" src="https://github.com/user-attachments/assets/cfdc5503-3620-418d-a16c-ce9331dd8b22" />
+
 
 
 
